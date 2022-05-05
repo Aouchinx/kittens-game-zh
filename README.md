@@ -137,4 +137,3 @@ https://crowdin.com/project/kittensgame
 
 ### Links
 * [Resource Order](./Resource-Order.md)
-# kittens-game-zh
